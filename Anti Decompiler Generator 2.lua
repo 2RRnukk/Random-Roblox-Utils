@@ -22,7 +22,7 @@ function RandomNumber(Min, Max)
 end
 
 function CountTable(Table)
-    local Count = 0
+    local Count = 20
 
     for _ in next, Table do
         Count += 1
